@@ -64,10 +64,11 @@ function Asistencia() {
               id: d.id,
               nombre: datos.nombre ?? '',
               dni: datos.dni ?? null,
+              ubicacion: datos.ubicacion ?? null,
               presente: datos.presente === true,
               hora: datos.horaRegistro?.toDate?.() ?? null,
               sincronizando: d.metadata.hasPendingWrites,
-              busqueda: normalizar(`${datos.nombre ?? ''} ${datos.dni ?? ''}`),
+              busqueda: normalizar(`${datos.nombre ?? ''} ${datos.dni ?? ''} ${datos.ubicacion ?? ''}`),
             }
           })
         )
@@ -164,6 +165,7 @@ function Asistencia() {
                 <span className="block font-semibold text-base leading-snug">{a.nombre}</span>
                 <span className="block text-sm text-parchment/50">
                   {a.dni ? `DNI ${a.dni}` : 'Sin DNI cargado'}
+                  {a.ubicacion ? ` · ${a.ubicacion}` : ''}
                 </span>
               </span>
 

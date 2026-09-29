@@ -37,7 +37,11 @@ export default function Cargar() {
       for (let i = 0; i < lista.length; i += 400) {
         const lote = writeBatch(db)
         for (const a of lista.slice(i, i + 400)) {
-          lote.set(doc(db, 'asistentes', a.id), { nombre: a.nombre, dni: a.dni ?? null }, { merge: true })
+          lote.set(
+            doc(db, 'asistentes', a.id),
+            { nombre: a.nombre, dni: a.dni ?? null, ubicacion: a.ubicacion ?? null },
+            { merge: true }
+          )
         }
         await lote.commit()
         setAvance(Math.min(i + 400, lista.length))

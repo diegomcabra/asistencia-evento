@@ -47,9 +47,17 @@ def main():
     cols = {c.lower().strip(): c for c in df.columns}
     c_nombre = cols.get("nombre y apellido") or cols.get("nombre")
     c_dni = cols.get("dni") or cols.get("documento")
+    c_ubicacion = (
+        cols.get("ubicacion") or cols.get("ubicación") or cols.get("sala")
+        or cols.get("mesa") or cols.get("sector") or cols.get("lugar")
+    )
     if not (c_nombre and c_dni):
         print(f"No encuentro las columnas. Columnas del archivo: {list(df.columns)}", file=sys.stderr)
         sys.exit(1)
+    if c_ubicacion:
+        print(f"Usando columna de ubicación: \"{c_ubicacion}\"", file=sys.stderr)
+    else:
+        print("No encontré columna de ubicación (Sala/Mesa/Sector/Lugar); se carga sin ese dato.", file=sys.stderr)
 
     filas = []
     for _, r in df.iterrows():
@@ -59,7 +67,10 @@ def main():
         if not pd.isna(r[c_dni]):
             d = re.sub(r"\D", "", str(r[c_dni]).split(".")[0])
             dni = d or None
-        filas.append({"nombre": prolijo(espacios(r[c_nombre])), "dni": dni})
+        ubicacion = None
+        if c_ubicacion and not pd.isna(r[c_ubicacion]) and espacios(r[c_ubicacion]):
+            ubicacion = espacios(r[c_ubicacion])
+        filas.append({"nombre": prolijo(espacios(r[c_nombre])), "dni": dni, "ubicacion": ubicacion})
     total_original = len(filas)
 
     # 1) Unificar por DNI (misma persona escrita distinto): me quedo con el nombre más completo
@@ -100,7 +111,10 @@ def main():
     salida = []
     for f in finales:
         id_ = "d" + f["dni"] if f["dni"] else "n" + re.sub(r"[^a-z0-9]+", "-", clave_nombre(f["nombre"])).strip("-")
-        salida.append({"id": id_, "nombre": f["nombre"], "dni": f["dni"]})
+        item = {"id": id_, "nombre": f["nombre"], "dni": f["dni"]}
+        if f.get("ubicacion"):
+            item["ubicacion"] = f["ubicacion"]
+        salida.append(item)
     assert len({s["id"] for s in salida}) == len(salida), "ids repetidos"
     print(json.dumps(salida, ensure_ascii=False, indent=1))
 
