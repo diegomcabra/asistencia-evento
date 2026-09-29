@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Inter:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Cormorant Garamond", serif;
+  --font-body: "Inter", system-ui, sans-serif;
+
+  --color-ink: #16130f;
+  --color-ink-soft: #221d17;
+  --color-parchment: #f4efe4;
+  --color-gold: #c9a227;
+  --color-gold-soft: #e8c766;
+  --color-ok: #4c7a4c;
+  --color-ok-soft: #294a29;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background: var(--color-ink);
+  font-family: var(--font-body);
+  -webkit-tap-highlight-color: transparent;
+}
