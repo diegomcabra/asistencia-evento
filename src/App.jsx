@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { collection, doc, onSnapshot, serverTimestamp, updateDoc } from 'firebase/firestore'
 import { db } from './firebase'
 import Cargar from './Cargar'
+import Reporte from './Reporte'
 
 const EVENTO_NOMBRE = 'Control de asistencia'
 const MAX_RESULTADOS = 30
@@ -29,6 +30,7 @@ export default function App() {
   }, [])
 
   if (ruta === '#cargar') return <Cargar />
+  if (ruta === '#reporte') return <Reporte />
   return <Asistencia />
 }
 
@@ -115,6 +117,9 @@ function Asistencia() {
             {conteo ? `${conteo.presentes} de ${conteo.total} presentes` : 'Cargando…'}
           </span>
           {conteo && <span className="text-parchment/50">· faltan {conteo.faltan}</span>}
+          <a href="#reporte" className="ml-auto text-parchment/40 underline underline-offset-2">
+            Reporte
+          </a>
         </div>
       </header>
 

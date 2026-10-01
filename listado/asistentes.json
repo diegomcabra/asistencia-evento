@@ -2,2001 +2,2539 @@
  {
   "id": "d45779902",
   "nombre": "Abril Antonella Castro",
-  "dni": "45779902"
+  "dni": "45779902",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nabril-schurjin",
+  "nombre": "Abril Schurjin",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d36085120",
   "nombre": "Adi Almaraz, Ariel Nicolás",
-  "dni": "36085120"
+  "dni": "36085120",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nadolfo-stambulsky",
   "nombre": "Adolfo Stambulsky",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 y 5"
+ },
+ {
+  "id": "nadrian-noriega",
+  "nombre": "Adrian Noriega",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 y 5"
+ },
+ {
+  "id": "d21003578",
+  "nombre": "Adrian Sgro",
+  "dni": "21003578",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nadriana-alvarez",
   "nombre": "Adriana Alvarez",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nadriana-baravalle",
   "nombre": "Adriana Baravalle",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d23930178",
   "nombre": "Adriana Beatriz Garcia",
-  "dni": "23930178"
+  "dni": "23930178",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d42077340",
   "nombre": "Agustín Daniel Castro",
-  "dni": "42077340"
+  "dni": "42077340",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nagustin-di-luca",
+  "nombre": "Agustin Di Luca",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d47510527",
   "nombre": "Agustin Nicolas Pezzi",
-  "dni": "47510527"
+  "dni": "47510527",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nagustin-velasco",
   "nombre": "Agustin Velasco",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d40643654",
   "nombre": "Agustina Belén Guirbino",
-  "dni": "40643654"
+  "dni": "40643654",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nagustina-huespe",
   "nombre": "Agustina Huespe",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d46209087",
   "nombre": "Agustina Velazco",
-  "dni": "46209087"
+  "dni": "46209087",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nalberto-baduan",
   "nombre": "Alberto Baduan",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d25043946",
   "nombre": "Alberto Hirsch",
-  "dni": "25043946"
+  "dni": "25043946",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d24561105",
   "nombre": "Alberto Piñero",
-  "dni": "24561105"
+  "dni": "24561105",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nalejandra-martinez",
   "nombre": "Alejandra Martinez",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nalejandra-paolucci",
   "nombre": "Alejandra Paolucci",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A2 · Fila 2"
  },
  {
   "id": "nalejandra-anca-de-rodriguez",
   "nombre": "Alejandra Rodriguez de Anca",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2i · Fila 2"
  },
  {
   "id": "nalejandro-petrecca",
   "nombre": "Alejandro Petrecca",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A3 · Fila 3"
  },
  {
   "id": "nalejandro-scarso",
   "nombre": "Alejandro Scarso",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d37127052",
   "nombre": "Alexis Arias",
-  "dni": "37127052"
+  "dni": "37127052",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d17453483",
   "nombre": "Alicia Mabel Conde",
-  "dni": "17453483"
+  "dni": "17453483",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nalicia-sica",
   "nombre": "Alicia Sica",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B4i · Fila 4"
  },
  {
   "id": "d35271243",
   "nombre": "Alma Brandy",
-  "dni": "35271243"
+  "dni": "35271243",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d45747885",
   "nombre": "Alma Nuñez",
-  "dni": "45747885"
+  "dni": "45747885",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d41484890",
   "nombre": "Almendra Scialabba Pezzi",
-  "dni": "41484890"
- },
- {
-  "id": "d24984552",
-  "nombre": "Ana Elizabeth",
-  "dni": "24984552"
+  "dni": "41484890",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d17374740",
   "nombre": "Ana Maria Castaño",
-  "dni": "17374740"
+  "dni": "17374740",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nana-castell-maria",
   "nombre": "Ana Maria Castell",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2i · Fila 2"
  },
  {
   "id": "d19607140",
   "nombre": "Andre Gibert",
-  "dni": "19607140"
+  "dni": "19607140",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nandrea-bruno",
   "nombre": "Andrea Bruno",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nandrea-estevez-mirson",
   "nombre": "Andrea Estevez Mirson",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B5i · Fila 5"
  },
  {
   "id": "d26721830",
   "nombre": "Andrea Marta Gerez Avram",
-  "dni": "26721830"
+  "dni": "26721830",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nangela-castillo",
   "nombre": "Ángela Castillo",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d17458769",
   "nombre": "Ángela del Valle Cascini",
-  "dni": "17458769"
+  "dni": "17458769",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d35670831",
   "nombre": "Antonella del Valle Piersanti",
-  "dni": "35670831"
+  "dni": "35670831",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d36274315",
   "nombre": "Araceli González Llorente",
-  "dni": "36274315"
+  "dni": "36274315",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d96100393",
   "nombre": "Ariam Liendo",
-  "dni": "96100393"
+  "dni": "96100393",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "naguirre-ariel",
   "nombre": "Ariel Aguirre",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d30218857",
   "nombre": "Belen Caia",
-  "dni": "30218857"
+  "dni": "30218857",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "d34987459",
+  "nombre": "Belen Ferreira Debuchy",
+  "dni": "34987459",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nbenjamin-peiretti",
+  "nombre": "Benjamin Peiretti",
+  "dni": null,
+  "ubicacion": "B2d · Fila 2"
  },
  {
   "id": "d22709112",
   "nombre": "Bettina Fredes",
-  "dni": "22709112"
+  "dni": "22709112",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d36806180",
   "nombre": "Bianca Isabela Buono Podazza",
-  "dni": "36806180"
+  "dni": "36806180",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d44512040",
   "nombre": "Bianca Mónaco",
-  "dni": "44512040"
+  "dni": "44512040",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d41539465",
   "nombre": "Brenda Denise Barrionuevo",
-  "dni": "41539465"
+  "dni": "41539465",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d34874248",
   "nombre": "Brian Brown",
-  "dni": "34874248"
+  "dni": "34874248",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d34874258",
   "nombre": "Brian Brown",
-  "dni": "34874258"
+  "dni": "34874258",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d40811504",
   "nombre": "Brian Orlando Ramallo",
-  "dni": "40811504"
+  "dni": "40811504",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbecerra-brunella",
   "nombre": "Brunella Becerra",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A4 · Fila 4"
  },
  {
   "id": "d45571504",
   "nombre": "Camila Ayelen Deninotti",
-  "dni": "45571504"
+  "dni": "45571504",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d43084767",
   "nombre": "Camila Del Vecchio",
-  "dni": "43084767"
+  "dni": "43084767",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncamila-iannini",
   "nombre": "Camila Iannini",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 y 5"
  },
  {
   "id": "d33526436",
   "nombre": "Carlos Adrián Alcántara",
-  "dni": "33526436"
+  "dni": "33526436",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d25416613",
   "nombre": "Carlos Alejandro Ferreyra",
-  "dni": "25416613"
+  "dni": "25416613",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d22364830",
   "nombre": "Carlos Cáceres",
-  "dni": "22364830"
+  "dni": "22364830",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncaravaglia-carlos",
   "nombre": "Carlos Caravaglia",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d22858712",
   "nombre": "Carlos Gianella",
-  "dni": "22858712"
+  "dni": "22858712",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d14719883",
   "nombre": "Carlos Guillermo Gutiérrez",
-  "dni": "14719883"
+  "dni": "14719883",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncarlos-prina",
   "nombre": "Carlos Prina",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2d · Fila 2"
  },
  {
   "id": "ncarlos-franco-romero",
   "nombre": "Carlos Romero Franco",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nbisgarra-carolina",
   "nombre": "Carolina Bisgarra",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 y 5"
  },
  {
   "id": "ncarolina-marozzi-perez",
   "nombre": "Carolina Perez Marozzi",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3i · Fila 3"
  },
  {
   "id": "d25651508",
   "nombre": "Carolina Sagardoy",
-  "dni": "25651508"
+  "dni": "25651508",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d47641314",
   "nombre": "Carolina Villafranca",
-  "dni": "47641314"
+  "dni": "47641314",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d46915447",
   "nombre": "Cayetano Nahuel Marino",
-  "dni": "46915447"
- },
- {
-  "id": "d20278494",
-  "nombre": "Cecilia Maria Zawisza",
-  "dni": "20278494"
+  "dni": "46915447",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d45015700",
   "nombre": "Celina Cibura",
-  "dni": "45015700"
+  "dni": "45015700",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d96162170",
   "nombre": "Cesar Augusto Jiménez Daza",
-  "dni": "96162170"
+  "dni": "96162170",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncesar-marchione",
   "nombre": "Cesar Marchione",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "ncesar-nasser",
   "nombre": "Cesar Nasser",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d42075055",
   "nombre": "Chiara Nerina Jolli",
-  "dni": "42075055"
+  "dni": "42075055",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d22654222",
   "nombre": "Christian Barquin",
-  "dni": "22654222"
+  "dni": "22654222",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d31673648",
   "nombre": "Christian de Miguel",
-  "dni": "31673648"
+  "dni": "31673648",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d40242247",
   "nombre": "Cintia Nacach",
-  "dni": "40242247"
+  "dni": "40242247",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nalvarez-claudia",
   "nombre": "Claudia Álvarez",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d92498504",
   "nombre": "Claudia Fabiana Caballero",
-  "dni": "92498504"
+  "dni": "92498504",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d22279384",
   "nombre": "Claudia García Meza",
-  "dni": "22279384"
+  "dni": "22279384",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nclaudia-parodi",
+  "nombre": "Claudia Parodi",
+  "dni": null,
+  "ubicacion": "B3d · Fila 3"
  },
  {
   "id": "d18234614",
   "nombre": "Claudio Fabián Denegri",
-  "dni": "18234614"
+  "dni": "18234614",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "ncompania-de-soldan",
+  "nombre": "Compañia de Soldan",
+  "dni": null,
+  "ubicacion": "B3d · Fila 3"
  },
  {
   "id": "ncristina-giordano",
   "nombre": "Cristina Giordano",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "ncristina-terlizzi",
   "nombre": "Cristina Terlizzi",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d42874173",
   "nombre": "Daiana Raquel Lapaca Mamani",
-  "dni": "42874173"
+  "dni": "42874173",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d35729328",
   "nombre": "Daiana Silva",
-  "dni": "35729328"
+  "dni": "35729328",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d28587899",
   "nombre": "Daiana Solange Noemí Grenader",
-  "dni": "28587899"
+  "dni": "28587899",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ndamian-dudzin",
   "nombre": "Damian Dudzin",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d46089310",
   "nombre": "Danae Ochoa",
-  "dni": "46089310"
+  "dni": "46089310",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ndaniel-ibanez",
   "nombre": "Daniel Ibañez",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d16901498",
   "nombre": "Daniel Mariano Aguilera",
-  "dni": "16901498"
+  "dni": "16901498",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d41401883",
   "nombre": "Daniel Maximiliano Mendez",
-  "dni": "41401883"
+  "dni": "41401883",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ndaniel-papaleo",
   "nombre": "Daniel Papaleo",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "ndaniel-ruiz",
   "nombre": "Daniel Ruiz",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3i · Fila 3"
  },
  {
   "id": "d36400479",
   "nombre": "Daniela Alderetes",
-  "dni": "36400479"
+  "dni": "36400479",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d29789432",
   "nombre": "Daniela Carolina Vera",
-  "dni": "29789432"
+  "dni": "29789432",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ndavid-furland",
   "nombre": "David Furland",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d43034050",
   "nombre": "Delfina Migone Tarján",
-  "dni": "43034050"
+  "dni": "43034050",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "d40231139",
+  "nombre": "Demián Fraenkel",
+  "dni": "40231139",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d25148780",
   "nombre": "Diego Ariel Andon",
-  "dni": "25148780"
+  "dni": "25148780",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbrunelli-diego",
   "nombre": "Diego Brunelli",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "ndaga-diego",
   "nombre": "Diego Dagá",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "ndiego-gutman",
   "nombre": "Diego Gutman",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "ndolores-prosen",
   "nombre": "Dolores Prosen",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B4i · Fila 4"
  },
  {
   "id": "d36172277",
   "nombre": "Dominique Guerriero Piñeiro",
-  "dni": "36172277"
+  "dni": "36172277",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncolombo-eduardo",
   "nombre": "Eduardo Colombo",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3i · Fila 3"
  },
  {
   "id": "d35853623",
   "nombre": "Eduardo David Moschella Mercado",
-  "dni": "35853623"
+  "dni": "35853623",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d39919276",
   "nombre": "Eliana Baldonado",
-  "dni": "39919276"
+  "dni": "39919276",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d34553792",
   "nombre": "Emanuel San Martin Villamayor",
-  "dni": "34553792"
+  "dni": "34553792",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d26844461",
   "nombre": "Emiliano Estevanez",
-  "dni": "26844461"
+  "dni": "26844461",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d47829337",
   "nombre": "Emiliano Parodi",
-  "dni": "47829337"
+  "dni": "47829337",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d23444998",
   "nombre": "Emma Otilia Mayntzhusen",
-  "dni": "23444998"
+  "dni": "23444998",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nemma-rivera",
   "nombre": "Emma Rivera",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2i · Fila 2"
+ },
+ {
+  "id": "nemma-solis",
+  "nombre": "Emma Solis",
+  "dni": null,
+  "ubicacion": "B4i · Fila 4"
  },
  {
   "id": "d44794339",
   "nombre": "Enzo Molinas",
-  "dni": "44794339"
+  "dni": "44794339",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d26123432",
   "nombre": "Erica Lorena Muñoz Roldan",
-  "dni": "26123432"
+  "dni": "26123432",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d46208234",
   "nombre": "Erika Guadalupe Silva",
-  "dni": "46208234"
+  "dni": "46208234",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d47229417",
   "nombre": "Erika Luciana Santagapita",
-  "dni": "47229417"
+  "dni": "47229417",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d95844011",
   "nombre": "Erilyn del Valle Colina",
-  "dni": "95844011"
+  "dni": "95844011",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nabbamonte-estefania",
   "nombre": "Estefanía Abbamonte",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nblanco-eugenia",
   "nombre": "Eugenia Blanco",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 y 5"
  },
  {
   "id": "d27387044",
   "nombre": "Eugenia Quibel",
-  "dni": "27387044"
+  "dni": "27387044",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d41673276",
   "nombre": "Evelyn Daiana Herberg",
-  "dni": "41673276"
+  "dni": "41673276",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "d21669253",
+  "nombre": "Fabiana Karin Giordano",
+  "dni": "21669253",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d35630172",
   "nombre": "Facundo Lopez",
-  "dni": "35630172"
+  "dni": "35630172",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nfanny-mandelbaum",
   "nombre": "Fanny Mandelbaum",
-  "dni": null
+  "dni": null,
+  "ubicacion": "XXXXXXX"
  },
  {
   "id": "d31362701",
   "nombre": "Federico O Brien",
-  "dni": "31362701"
+  "dni": "31362701",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d38888879",
   "nombre": "Federico Wlasiczuk",
-  "dni": "38888879"
+  "dni": "38888879",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nberarducci-fernanda",
   "nombre": "Fernanda Berarducci",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3i · Fila 3"
  },
  {
   "id": "naguin-fernando",
   "nombre": "Fernando Aguin",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d35955273",
   "nombre": "Fernando Correa",
-  "dni": "35955273"
+  "dni": "35955273",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncosta-fernando",
   "nombre": "Fernando Costa",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d36947763",
   "nombre": "Fernando Roselli",
-  "dni": "36947763"
+  "dni": "36947763",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d38860859",
   "nombre": "Fiorella Farias",
-  "dni": "38860859"
+  "dni": "38860859",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d38786811",
   "nombre": "Florencia Eliana Copertino",
-  "dni": "38786811"
+  "dni": "38786811",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d39375254",
   "nombre": "Florencia Gabriela Garcete",
-  "dni": "39375254"
+  "dni": "39375254",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d35157548",
   "nombre": "Florencia Gomez",
-  "dni": "35157548"
+  "dni": "35157548",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d44379990",
   "nombre": "Florencia Mailen Gonzalez",
-  "dni": "44379990"
+  "dni": "44379990",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d42416770",
   "nombre": "Florencia Malen Martin",
-  "dni": "42416770"
+  "dni": "42416770",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbonilla-francisco",
   "nombre": "Francisco Bonilla",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d43780249",
   "nombre": "Franco Ferreyra",
-  "dni": "43780249"
- },
- {
-  "id": "d42043574",
-  "nombre": "Franco González Biglia",
-  "dni": "42043574"
+  "dni": "43780249",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d40956992",
   "nombre": "Franco Rovelli",
-  "dni": "40956992"
+  "dni": "40956992",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "ndousdebes-gabriel",
+  "nombre": "Gabriel Dousdebes",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nazar-gabriela",
   "nombre": "Gabriela Azar",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "nbekenstein-gabriela",
   "nombre": "Gabriela Bekenstein",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
-  "id": "d36191411",
-  "nombre": "Gastón García Grosse",
-  "dni": "36191411"
+  "id": "ngeorgina-giacove",
+  "nombre": "Georgina Giacove",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d47097835",
   "nombre": "Geraldine Catalina Herrera",
-  "dni": "47097835"
+  "dni": "47097835",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d40901796",
   "nombre": "Germán Martín Fernández Buonvisi",
-  "dni": "40901796"
+  "dni": "40901796",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d40046889",
   "nombre": "Gianluca Barreto",
-  "dni": "40046889"
+  "dni": "40046889",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d35902611",
   "nombre": "Giuliano Adrian Barattucci",
-  "dni": "35902611"
+  "dni": "35902611",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncosta-gladys",
   "nombre": "Gladys Costa",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "ngladys-ocampo",
   "nombre": "Gladys Ocampo",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "ngonzalo-moreno",
   "nombre": "Gonzalo Moreno",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A2 · Fila 2"
  },
  {
   "id": "d35533545",
   "nombre": "Gonzalo Pérez Marrella",
-  "dni": "35533545"
+  "dni": "35533545",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nguadalupe-marozzi",
   "nombre": "Guadalupe Marozzi",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3i · Fila 3"
  },
  {
   "id": "nguido-maltz",
   "nombre": "Guido Maltz",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d35321303",
   "nombre": "Guido Nicolas Cepeda",
-  "dni": "35321303"
+  "dni": "35321303",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nguillermo-lancry",
   "nombre": "Guillermo Lancry",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d42358655",
   "nombre": "Guillermo Parra",
-  "dni": "42358655"
+  "dni": "42358655",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbonfigli-gustavo",
   "nombre": "Gustavo Bonfigli",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d20839564",
   "nombre": "Gustavo Martín Oroná",
-  "dni": "20839564"
+  "dni": "20839564",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbucci-hector",
   "nombre": "Héctor Bucci",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2d · Fila 2"
  },
  {
   "id": "nhermes-molaro",
   "nombre": "Hermes Molaro",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
+ },
+ {
+  "id": "ngiacove-horacio",
+  "nombre": "Horacio Giacove",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d17708367",
   "nombre": "Horacio Miguel Borean",
-  "dni": "17708367"
+  "dni": "17708367",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nhoracio-villegas",
   "nombre": "Horacio Villegas",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d39468760",
   "nombre": "Ian Soler Landerreche",
-  "dni": "39468760"
+  "dni": "39468760",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nanca-de-ignacio-rodriguez",
   "nombre": "Ignacio Rodriguez de Anca",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2i · Fila 2"
  },
  {
   "id": "d11778360",
   "nombre": "Irma Margarita Tognetti",
-  "dni": "11778360"
+  "dni": "11778360",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbonicatto-isidoro",
   "nombre": "Isidoro Bonicatto",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d37968140",
   "nombre": "Iván Matías Consani",
-  "dni": "37968140"
+  "dni": "37968140",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d47456240",
   "nombre": "Iván Tadeo Pelli",
-  "dni": "47456240"
+  "dni": "47456240",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "njavier-milman",
   "nombre": "Javier Milman",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "njazmin-joaquim-lopez",
   "nombre": "Jazmin Lopez Joaquim",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B6i · Fila 6"
  },
  {
   "id": "d38357523",
   "nombre": "Jazmin Madelaine Varas Ponce",
-  "dni": "38357523"
+  "dni": "38357523",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d45785952",
   "nombre": "Jeremías Latorres",
-  "dni": "45785952"
+  "dni": "45785952",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d38073252",
   "nombre": "Jessica Beatriz Ianuzo",
-  "dni": "38073252"
+  "dni": "38073252",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d47292397",
   "nombre": "Joaquín Bustince",
-  "dni": "47292397"
+  "dni": "47292397",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d40538344",
   "nombre": "Joaquin Diaz Cortez",
-  "dni": "40538344"
+  "dni": "40538344",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nfernandez-joaquin-madrid",
   "nombre": "Joaquín Fernandez Madrid",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d47691380",
   "nombre": "Joaquin Sanchez Negrete",
-  "dni": "47691380"
+  "dni": "47691380",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d95373348",
   "nombre": "Jorge Andrés Martínez Hurtado",
-  "dni": "95373348"
+  "dni": "95373348",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ndebernardinis-jorge",
   "nombre": "Jorge Debernardinis",
-  "dni": null
- },
- {
-  "id": "nacevedo-jose-luis",
-  "nombre": "José Luis Acevedo",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B5i · Fila 5"
  },
  {
   "id": "d36594981",
   "nombre": "José Nicolás Valeriano Lozano Salinas",
-  "dni": "36594981"
+  "dni": "36594981",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "njose-nicolini",
   "nombre": "José Nicolini",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d45288653",
   "nombre": "Josefina Alvarado",
-  "dni": "45288653"
+  "dni": "45288653",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d44869710",
   "nombre": "Juan Emilio Anduaga",
-  "dni": "44869710"
+  "dni": "44869710",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d28986305",
   "nombre": "Juan Francisco Llovet",
-  "dni": "28986305"
+  "dni": "28986305",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d43875048",
   "nombre": "Juan Ignacio Pieroni",
-  "dni": "43875048"
+  "dni": "43875048",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "njose-juan-montero-paz",
   "nombre": "Juan José Montero Paz",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d39337676",
   "nombre": "Juan Martin Briones",
-  "dni": "39337676"
+  "dni": "39337676",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d23355516",
   "nombre": "Juan Martin Garcia Roldan",
-  "dni": "23355516"
+  "dni": "23355516",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "njuan-martin-ozores",
   "nombre": "Juan Martin Ozores",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d23386108",
   "nombre": "Juan Pablo Brambilla",
-  "dni": "23386108"
+  "dni": "23386108",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "njuan-sixto",
+  "nombre": "Juan Sixto",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d40262781",
   "nombre": "Juana Luz Grela",
-  "dni": "40262781"
+  "dni": "40262781",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d36165007",
   "nombre": "Julián Ariel Morel",
-  "dni": "36165007"
+  "dni": "36165007",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d35726450",
   "nombre": "Julieta De Schant",
-  "dni": "35726450"
+  "dni": "35726450",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ndorio-julieta",
   "nombre": "Julieta Dorio",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d41245380",
   "nombre": "Julieta Montenegro",
-  "dni": "41245380"
+  "dni": "41245380",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d35728191",
   "nombre": "Julieta Romero",
-  "dni": "35728191"
- },
- {
-  "id": "d30517901",
-  "nombre": "Julio Jerusewich",
-  "dni": "30517901"
+  "dni": "35728191",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "njulio-lagos",
   "nombre": "Julio Lagos",
-  "dni": null
+  "dni": null,
+  "ubicacion": "XXXXXXX"
  },
  {
   "id": "d37539001",
   "nombre": "Karen Mayra Nutz",
-  "dni": "37539001"
+  "dni": "37539001",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nkaren-mlakar",
   "nombre": "Karen Mlakar",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d18093517",
   "nombre": "Karina Andrea De Filippis",
-  "dni": "18093517"
+  "dni": "18093517",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbecerra-karina",
   "nombre": "Karina Becerra",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A4 · Fila 4"
  },
  {
   "id": "nkarina-vazquez",
   "nombre": "Karina Vazquez",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 y 5"
  },
  {
   "id": "d96101840",
   "nombre": "Katerin Solano",
-  "dni": "96101840"
+  "dni": "96101840",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d46184773",
   "nombre": "Keren Abi Orellana",
-  "dni": "46184773"
+  "dni": "46184773",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d32677707",
   "nombre": "Kurt von Kyaw",
-  "dni": "32677707"
+  "dni": "32677707",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nlalo-morino",
   "nombre": "Lalo Morino",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A3 · Fila 3"
  },
  {
   "id": "d20013449",
   "nombre": "Laura Contreras",
-  "dni": "20013449"
+  "dni": "20013449",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d38324442",
   "nombre": "Laura Dolores Alcaraz Cabañas",
-  "dni": "38324442"
+  "dni": "38324442",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "d24365634",
+  "nombre": "Laura Ines Farias",
+  "dni": "24365634",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nlaura-rego",
   "nombre": "Laura Rego",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A3 · Fila 3"
  },
  {
   "id": "d46443947",
   "nombre": "Lautaro Emilio Maquieira",
-  "dni": "46443947"
+  "dni": "46443947",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d36359647",
   "nombre": "Lautaro Iturrioz",
-  "dni": "36359647"
+  "dni": "36359647",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d48039657",
   "nombre": "Lautaro Pedernera",
-  "dni": "48039657"
+  "dni": "48039657",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nleandro-vergara",
   "nombre": "Leandro Vergara",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "ncuesta-leonardo",
   "nombre": "Leonardo Cuesta",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d48158893",
   "nombre": "Libertad Portela",
-  "dni": "48158893"
+  "dni": "48158893",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nlibertad-rodriguez-sanchez",
+  "nombre": "Libertad Rodriguez Sanchez",
+  "dni": null,
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d30049707",
   "nombre": "Ligia Noemi Vallejos",
-  "dni": "30049707"
+  "dni": "30049707",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d12400329",
   "nombre": "Liliana Becerra",
-  "dni": "12400329"
+  "dni": "12400329",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nliliana-parodi",
   "nombre": "Liliana Parodi",
-  "dni": null
+  "dni": null,
+  "ubicacion": "XXXXXXX"
  },
  {
   "id": "nlily-rojas",
   "nombre": "Lily Rojas",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d18693052",
   "nombre": "Lior Musikant",
-  "dni": "18693052"
+  "dni": "18693052",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nfernan-livia",
   "nombre": "Livia Fernán",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2i · Fila 2"
  },
  {
   "id": "d95779139",
   "nombre": "Liz Mabel Barbudez Rivero",
-  "dni": "95779139"
+  "dni": "95779139",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d31896726",
   "nombre": "Lorena Soledad Debes",
-  "dni": "31896726"
+  "dni": "31896726",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d45929314",
   "nombre": "Luan Zezza",
-  "dni": "45929314"
+  "dni": "45929314",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbecerra-luca",
   "nombre": "Luca Becerra",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A4 · Fila 4"
  },
  {
   "id": "d43447314",
   "nombre": "Lucas Agustín Baletti",
-  "dni": "43447314"
+  "dni": "43447314",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d36684663",
   "nombre": "Lucas Gastón Ruiz",
-  "dni": "36684663"
+  "dni": "36684663",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d37352534",
   "nombre": "Lucas Lora",
-  "dni": "37352534"
+  "dni": "37352534",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d37467137",
   "nombre": "Lucas Marchesini",
-  "dni": "37467137"
+  "dni": "37467137",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d37710065",
   "nombre": "Lucas Oronó",
-  "dni": "37710065"
+  "dni": "37710065",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncassinelli-lucia",
   "nombre": "Lucía Cassinelli",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "ndubie-lucia",
   "nombre": "Lucía Dubié",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 y 5"
  },
  {
-  "id": "d27310003",
-  "nombre": "Luciana Martina Miguel",
-  "dni": "27310003"
+  "id": "d26294145",
+  "nombre": "Luciana Hidalgo",
+  "dni": "26294145",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d34301282",
   "nombre": "Luciano Claris",
-  "dni": "34301282"
+  "dni": "34301282",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncervantes-luis",
   "nombre": "Luis Cervantes",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2d · Fila 2"
  },
  {
   "id": "d48245920",
   "nombre": "Luis Marcelo Garay Giordano",
-  "dni": "48245920"
+  "dni": "48245920",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nluis-otero",
   "nombre": "Luis Otero",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d45682672",
   "nombre": "Luna Oriana Morel",
-  "dni": "45682672"
+  "dni": "45682672",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d36806435",
   "nombre": "Luz Nobili Frenkel",
-  "dni": "36806435"
+  "dni": "36806435",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d34998963",
   "nombre": "Luz Ríos Iribarne",
-  "dni": "34998963"
- },
- {
-  "id": "d45073346",
-  "nombre": "Macarena Silva",
-  "dni": "45073346"
+  "dni": "34998963",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d47166483",
   "nombre": "Malena Azul Cabrera Casais",
-  "dni": "47166483"
+  "dni": "47166483",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d25754915",
   "nombre": "Malena Iglesias",
-  "dni": "25754915"
+  "dni": "25754915",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d24754915",
   "nombre": "Malena Iglesias",
-  "dni": "24754915"
+  "dni": "24754915",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d39770694",
   "nombre": "Manuela Bas",
-  "dni": "39770694"
+  "dni": "39770694",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d24165753",
   "nombre": "Marcela Blanco",
-  "dni": "24165753"
+  "dni": "24165753",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncamano-marcelo",
   "nombre": "Marcelo Camaño",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A3 · Fila 3"
  },
  {
   "id": "nfoss-marcelo",
   "nombre": "Marcelo Foss",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B4i · Fila 4"
  },
  {
   "id": "d21141429",
   "nombre": "Marcelo Oscar Maccarrone",
-  "dni": "21141429"
- },
- {
-  "id": "d14718662",
-  "nombre": "Marcelo Rubín",
-  "dni": "14718662"
+  "dni": "21141429",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d36449464",
   "nombre": "Marcelo Salazar",
-  "dni": "36449464"
+  "dni": "36449464",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d47700584",
   "nombre": "Marcos Agustin Bentancor",
-  "dni": "47700584"
+  "dni": "47700584",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d34682257",
   "nombre": "Marcos Ezequiel Pérez",
-  "dni": "34682257"
+  "dni": "34682257",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "d45304084",
+  "nombre": "Marcos Gomez",
+  "dni": "45304084",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d41064701",
   "nombre": "Marcos Luciano Alanis",
-  "dni": "41064701"
+  "dni": "41064701",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d13277910",
   "nombre": "Maria Alejandra Galasso",
-  "dni": "13277910"
+  "dni": "13277910",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "d33206806",
+  "nombre": "Maria Belen Castroagudin",
+  "dni": "33206806",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbelen-maria-soro",
   "nombre": "Maria Belen Soro",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3d · Fila 3"
  },
  {
   "id": "ncecilia-diaz-maria",
   "nombre": "María Cecilia Díaz",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "ncristina-maria-roldan",
   "nombre": "María Cristina Roldán",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d38892652",
   "nombre": "María de los Angeles",
-  "dni": "38892652"
+  "dni": "38892652",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d26577200",
   "nombre": "María de los Ángeles Caia",
-  "dni": "26577200"
+  "dni": "26577200",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d29041379",
   "nombre": "Maria de los Angeles Ibáñez Bello",
-  "dni": "29041379"
+  "dni": "29041379",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d34014641",
   "nombre": "María Dulce Rodríguez",
-  "dni": "34014641"
+  "dni": "34014641",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nester-maria-sanchez",
   "nombre": "María Ester Sánchez",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2d · Fila 2"
+ },
+ {
+  "id": "d34372284",
+  "nombre": "María Eugenia Liporace",
+  "dni": "34372284",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "neugenia-ibanez-maria-perez",
   "nombre": "María Eugenia Perez Ibañez",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2d · Fila 2"
  },
  {
   "id": "d22813129",
   "nombre": "María Eva Urrutia",
-  "dni": "22813129"
+  "dni": "22813129",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d35098084",
   "nombre": "Maria Florencia Farinati",
-  "dni": "35098084"
+  "dni": "35098084",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d34338481",
   "nombre": "María Florencia Gondry",
-  "dni": "34338481"
+  "dni": "34338481",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d18499957",
   "nombre": "Maria Jose Bernal Carol",
-  "dni": "18499957"
+  "dni": "18499957",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d23415350",
   "nombre": "María José Iglesias",
-  "dni": "23415350"
+  "dni": "23415350",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d31452230",
   "nombre": "María Julia Cafferata",
-  "dni": "31452230"
- },
- {
-  "id": "nmaria-mezzotero-rosa",
-  "nombre": "María Rosa Mezzotero",
-  "dni": null
+  "dni": "31452230",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d41666738",
   "nombre": "María Sol Ballesteros",
-  "dni": "41666738"
+  "dni": "41666738",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "d37946808",
+  "nombre": "María Teresa Ceballos",
+  "dni": "37946808",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "ngirotti-maria-teresa",
+  "nombre": "Maria Teresa Girotti",
+  "dni": null,
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d41834597",
   "nombre": "Maria Victoria Luna",
-  "dni": "41834597"
+  "dni": "41834597",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d32144087",
   "nombre": "María Virginia Calvi",
-  "dni": "32144087"
+  "dni": "32144087",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d39757362",
   "nombre": "Mariana Daniela Nahir González",
-  "dni": "39757362"
+  "dni": "39757362",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d24684035",
   "nombre": "Mariana Gavicagoxeascoa",
-  "dni": "24684035"
+  "dni": "24684035",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ngil-laborde-mariana",
   "nombre": "Mariana Gil Laborde",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A2 · Fila 2"
  },
  {
   "id": "d25863068",
   "nombre": "Mariana Hamicha",
-  "dni": "25863068"
+  "dni": "25863068",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nmariana-solis",
+  "nombre": "Mariana Solis",
+  "dni": null,
+  "ubicacion": "B4i · Fila 4"
  },
  {
   "id": "nazula-mariano",
   "nombre": "Mariano Azula",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
+ },
+ {
+  "id": "nbiertosz-mariano",
+  "nombre": "Mariano Biertosz",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nmariano-onega",
   "nombre": "Mariano Onega",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d41664693",
   "nombre": "Mariano Santiago Caramelo",
-  "dni": "41664693"
+  "dni": "41664693",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d31885554",
   "nombre": "Mariela Centurion",
-  "dni": "31885554"
+  "dni": "31885554",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
-  "id": "d37104038",
-  "nombre": "Marina",
-  "dni": "37104038"
+  "id": "nmariela-staude",
+  "nombre": "Mariela Staude",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d31703626",
   "nombre": "Marina Andrada",
-  "dni": "31703626"
+  "dni": "31703626",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "d20412954",
+  "nombre": "Marísa Graciela Mathot",
+  "dni": "20412954",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nmarisa-quiroga",
   "nombre": "Marisa Quiroga",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d23100419",
   "nombre": "Marta Noemí Gagauz",
-  "dni": "23100419"
+  "dni": "23100419",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbilyk-martin",
   "nombre": "Martín Bilyk",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B6i · Fila 6"
  },
  {
   "id": "nmartin-paldrok",
   "nombre": "Martín Paldrok",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nmartin-siccardi",
   "nombre": "Martin Siccardi",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2i · Fila 2"
  },
  {
   "id": "d42077271",
   "nombre": "Matías Ariel Rosinke",
-  "dni": "42077271"
+  "dni": "42077271",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ndousdebes-matias",
   "nombre": "Matías Dousdebes",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d41222903",
   "nombre": "Matías Garcik",
-  "dni": "41222903"
+  "dni": "41222903",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d41292704",
   "nombre": "Mauro Senise",
-  "dni": "41292704"
+  "dni": "41292704",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d39374662",
   "nombre": "Maximiliano Abraham Ojeda",
-  "dni": "39374662"
+  "dni": "39374662",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d27158133",
   "nombre": "Mercedes Cecilia Combet",
-  "dni": "27158133"
+  "dni": "27158133",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d41764248",
   "nombre": "Mercedes Navarrete",
-  "dni": "41764248"
+  "dni": "41764248",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nagostina-bacigalupo-marco-micaela",
+  "nombre": "Micaela Agostina Marco Bacigalupo",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d43922247",
   "nombre": "Micaela Baigorria",
-  "dni": "43922247"
+  "dni": "43922247",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d36644103",
   "nombre": "Micaela Benedetto",
-  "dni": "36644103"
+  "dni": "36644103",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d47201507",
   "nombre": "Micaela Silvestro",
-  "dni": "47201507"
+  "dni": "47201507",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d42888012",
   "nombre": "Micaela Trentini",
-  "dni": "42888012"
+  "dni": "42888012",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "d39917286",
+  "nombre": "Milagros Estrada",
+  "dni": "39917286",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "d43873722",
+  "nombre": "Milagros Falcioni",
+  "dni": "43873722",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d39162678",
   "nombre": "Milagros Navarro",
-  "dni": "39162678"
+  "dni": "39162678",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d43170347",
   "nombre": "Milena Érika Gómez Rocca",
-  "dni": "43170347"
+  "dni": "43170347",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d44053676",
   "nombre": "Milena Gutierrez",
-  "dni": "44053676"
+  "dni": "44053676",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbaumgratz-monica",
   "nombre": "Mónica Baumgratz",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d18315136",
   "nombre": "Mónica Beatriz Gervasoni",
-  "dni": "18315136"
+  "dni": "18315136",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nmonica-torretto",
   "nombre": "Mónica Torretto",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A2 · Fila 2"
  },
  {
   "id": "d46579622",
   "nombre": "Mora Sofía Cristi",
-  "dni": "46579622"
+  "dni": "46579622",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d47962619",
   "nombre": "Morena Argüello",
-  "dni": "47962619"
- },
- {
-  "id": "d40055977",
-  "nombre": "Nadia Lewandowski",
-  "dni": "40055977"
+  "dni": "47962619",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nmarozzi-nahuel",
   "nombre": "Nahuel Marozzi",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3i · Fila 3"
  },
  {
   "id": "d21463614",
   "nombre": "Nancy Nora Jorge",
-  "dni": "21463614"
+  "dni": "21463614",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d34739850",
   "nombre": "Natalia Bravo",
-  "dni": "34739850"
+  "dni": "34739850",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d44666883",
   "nombre": "Natalia Micaela Cuesta",
-  "dni": "44666883"
+  "dni": "44666883",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nnelida-ponce",
+  "nombre": "Nelida Ponce",
+  "dni": null,
+  "ubicacion": "B3d · Fila 3"
  },
  {
   "id": "ndurante-nelson",
   "nombre": "Nelson Durante",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "d41182817",
   "nombre": "Néstor Luis Diez",
-  "dni": "41182817"
+  "dni": "41182817",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nmarina-nicolas",
   "nombre": "Nicolas Marina",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d34630311",
   "nombre": "Nicolás Vega",
-  "dni": "34630311"
+  "dni": "34630311",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d33110733",
   "nombre": "Nicolas Zakarian",
-  "dni": "33110733"
+  "dni": "33110733",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d37756199",
   "nombre": "Noelia Elizabeth Leyes",
-  "dni": "37756199"
+  "dni": "37756199",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nmercado-noelia",
+  "nombre": "Noelia Mercado",
+  "dni": null,
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nnoelia-romano",
   "nombre": "Noelia Romano",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A3 · Fila 3"
  },
  {
   "id": "ncristina-nora-sabin",
   "nombre": "Nora Cristina Sabin",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "nmazziotti-nora",
   "nombre": "Nora Mazziotti",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nnorberto-solis",
   "nombre": "Norberto Solís",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "ngoicochea-norma",
   "nombre": "Norma Goicochea",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d20573288",
   "nombre": "Omar Funes",
-  "dni": "20573288"
+  "dni": "20573288",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nbernasconi-pablo",
+  "nombre": "Pablo Bernasconi",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nbricker-pablo",
   "nombre": "Pablo Bricker",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A2 · Fila 2"
  },
  {
   "id": "ndi-nuzzo-pablo",
   "nombre": "Pablo Di Nuzzo",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 y 5"
  },
  {
   "id": "d28387718",
   "nombre": "Pablo Marcos Bogado",
-  "dni": "28387718"
+  "dni": "28387718",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d26113654",
   "nombre": "Pablo Navarro",
-  "dni": "26113654"
+  "dni": "26113654",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d40303441",
   "nombre": "Pablo Pulisich",
-  "dni": "40303441"
+  "dni": "40303441",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nmarozzi-paloma",
   "nombre": "Paloma Marozzi",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3i · Fila 3"
  },
  {
   "id": "d250999756",
   "nombre": "Paola Carrasco",
-  "dni": "250999756"
+  "dni": "250999756",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d25099755",
   "nombre": "Paola Del Valle Carrasco",
-  "dni": "25099755"
+  "dni": "25099755",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nferreiro-patricia",
   "nombre": "Patricia Ferreiro",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d18327926",
   "nombre": "Patricio Shanley",
-  "dni": "18327926"
+  "dni": "18327926",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d94115562",
   "nombre": "Paul Fernando Criollo Criollo",
-  "dni": "94115562"
+  "dni": "94115562",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d23820421",
   "nombre": "Paula Lorena Cabañez",
-  "dni": "23820421"
+  "dni": "23820421",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d20003351",
   "nombre": "Paula Santillán",
-  "dni": "20003351"
+  "dni": "20003351",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "npaula-zingoni",
   "nombre": "Paula Zingoni",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
+ },
+ {
+  "id": "npatzer-pedro",
+  "nombre": "Pedro Patzer",
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "nfortin-pita",
   "nombre": "Pita Fortín",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d22782199",
   "nombre": "Raúl Esteban Diaz",
-  "dni": "22782199"
+  "dni": "22782199",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncotta-ricardo",
   "nombre": "Ricardo Cotta",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B4i · Fila 4"
  },
  {
   "id": "ndi-nardo-ricardo",
   "nombre": "Ricardo Di Nardo",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 y 5"
  },
  {
   "id": "nkozono-ricardo",
   "nombre": "Ricardo Kozono",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nmartinez-puente-ricardo",
   "nombre": "Ricardo Martínez Puente",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3i · Fila 3"
+ },
+ {
+  "id": "nlavezzari-roberto",
+  "nombre": "Roberto Lavezzari",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d47260757",
   "nombre": "Rocío Ariadna Saavedra",
-  "dni": "47260757"
+  "dni": "47260757",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nnicosia-rocio",
   "nombre": "Rocio Nicosia",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3d · Fila 3"
  },
  {
   "id": "d26766072",
   "nombre": "Rocio Sueiro",
-  "dni": "26766072"
+  "dni": "26766072",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d32060585",
   "nombre": "Romina Espinola",
-  "dni": "32060585"
+  "dni": "32060585",
+  "ubicacion": "3 · Fila 4 y 5"
  },
  {
   "id": "d36722773",
   "nombre": "Roxana Edith Morguensteiven",
-  "dni": "36722773"
+  "dni": "36722773",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nperalta-roxana",
+  "nombre": "Roxana Peralta",
+  "dni": null,
+  "ubicacion": "B2d · Fila 2"
  },
  {
   "id": "ncalcaterra-ruben",
   "nombre": "Ruben Calcaterra",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nruben-ylharreguy",
   "nombre": "Ruben Ylharreguy",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2d · Fila 2"
  },
  {
   "id": "nmina-sabina",
   "nombre": "Sabina Mina",
-  "dni": null
- },
- {
-  "id": "nluduena-sandra",
-  "nombre": "Sandra Ludueña",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nsandra-sincofsky",
   "nombre": "Sandra Sincofsky",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d35325933",
   "nombre": "Sandra Valeria Chambi",
-  "dni": "35325933"
+  "dni": "35325933",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "nnoriega-santiago",
+  "nombre": "Santiago Noriega",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 y 5"
  },
  {
   "id": "d39460489",
   "nombre": "Santiago Tejeiro",
-  "dni": "39460489"
+  "dni": "39460489",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "namica-sebastian",
   "nombre": "Sebastian Amica",
-  "dni": null
- },
- {
-  "id": "d35345863",
-  "nombre": "Sebastian Esquivel",
-  "dni": "35345863"
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d41399334",
   "nombre": "Sebastián Gabriel Bollini",
-  "dni": "41399334"
+  "dni": "41399334",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d41850062",
   "nombre": "Sebastián Madero Torres",
-  "dni": "41850062"
+  "dni": "41850062",
+  "ubicacion": "4 · Fila 8 a 16"
+ },
+ {
+  "id": "d34451823",
+  "nombre": "Sebastian Murano",
+  "dni": "34451823",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "npeiretti-sebastian",
   "nombre": "Sebastian Peiretti",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B1 · Fila 1"
  },
  {
   "id": "nsebastian-serantes",
   "nombre": "Sebastian Serantes",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A2 · Fila 2"
  },
  {
   "id": "nbecerra-sergio",
   "nombre": "Sergio Becerra",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A4 · Fila 4"
  },
  {
   "id": "d26952038",
   "nombre": "Sergio Bustamante Godoy",
-  "dni": "26952038"
+  "dni": "26952038",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ncirigliano-sergio",
   "nombre": "Sergio Cirigliano",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 y 5"
  },
  {
   "id": "naira-silvia",
   "nombre": "Silvia Aira",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "nferro-silvia",
   "nombre": "Silvia Ferro",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B5i · Fila 5"
  },
  {
   "id": "d28362804",
   "nombre": "Silvina Fontenla",
-  "dni": "28362804"
+  "dni": "28362804",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nsilvio-soldan",
   "nombre": "Silvio Soldán",
-  "dni": null
+  "dni": null,
+  "ubicacion": "XXXXXXX"
  },
  {
   "id": "d29318685",
   "nombre": "Sofia Rueda",
-  "dni": "29318685"
+  "dni": "29318685",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d41722792",
   "nombre": "Sofia Sánchez",
-  "dni": "41722792"
+  "dni": "41722792",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d40956064",
   "nombre": "Sofia Ximena Acosta",
-  "dni": "40956064"
+  "dni": "40956064",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nmunoz-sol",
   "nombre": "Sol Muñoz",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3d · Fila 3"
+ },
+ {
+  "id": "nsolis",
+  "nombre": "Solis",
+  "dni": null,
+  "ubicacion": "B4i · Fila 4"
  },
  {
   "id": "d36360177",
   "nombre": "Stefanía Conti",
-  "dni": "36360177"
+  "dni": "36360177",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nabdala-susana",
   "nombre": "Susana Abdala",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3i · Fila 3"
  },
  {
   "id": "nparente-susana",
   "nombre": "Susana Parente",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2d · Fila 2"
  },
  {
   "id": "nroccasalvo-susana",
   "nombre": "Susana Roccasalvo",
-  "dni": null
+  "dni": null,
+  "ubicacion": "XXXXXXX"
+ },
+ {
+  "id": "nclermont-teresa",
+  "nombre": "Teresa Clermont",
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
+ },
+ {
+  "id": "d45820143",
+  "nombre": "Tiago Bulacios",
+  "dni": "45820143",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d39627425",
   "nombre": "Tomas Oliver Juresa Furlong",
-  "dni": "39627425"
- },
- {
-  "id": "d27728898",
-  "nombre": "Tomas Pablo Mackey",
-  "dni": "27728898"
+  "dni": "39627425",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nnovoa-ulises",
   "nombre": "Ulises Novoa",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B3d · Fila 3"
  },
  {
   "id": "nbilyk-valentin",
   "nombre": "Valentin Bilyk",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B6i · Fila 6"
  },
  {
   "id": "d45620527",
   "nombre": "Valentina Vaccarini",
-  "dni": "45620527"
+  "dni": "45620527",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d30403152",
   "nombre": "Valeria Deliens",
-  "dni": "30403152"
+  "dni": "30403152",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nhelguera-valeria",
   "nombre": "Valeria Helguera",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B2d · Fila 2"
  },
  {
   "id": "d33019745",
   "nombre": "Valeria Pozo",
-  "dni": "33019745"
+  "dni": "33019745",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nschwaszta-valeria",
   "nombre": "Valeria Schwaszta",
-  "dni": null
- },
- {
-  "id": "d30153888",
-  "nombre": "Vanesa Noelia Mercado",
-  "dni": "30153888"
- },
- {
-  "id": "d35764074",
-  "nombre": "Vanina Lagala",
-  "dni": "35764074"
+  "dni": null,
+  "ubicacion": "B4i · Fila 4"
  },
  {
   "id": "d33642241",
   "nombre": "Vera Bonano",
-  "dni": "33642241"
+  "dni": "33642241",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d21675580",
   "nombre": "Verónica Andrea Varela",
-  "dni": "21675580"
+  "dni": "21675580",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nmendez-veronica",
   "nombre": "Verónica Mendez",
-  "dni": null
+  "dni": null,
+  "ubicacion": "B5i · Fila 5"
  },
  {
   "id": "d27742132",
   "nombre": "Vicente Bustos Aramburu",
-  "dni": "27742132"
+  "dni": "27742132",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d29327681",
   "nombre": "Victor Abel Palomeque",
-  "dni": "29327681"
+  "dni": "29327681",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
-  "id": "d27750152",
-  "nombre": "Víctor Hugo Aragus",
-  "dni": "27750152"
- },
- {
-  "id": "d14740717",
-  "nombre": "Victoria Liliana Sued Cohen",
-  "dni": "14740717"
+  "id": "d29595050",
+  "nombre": "Vilma Lucia Aguirre",
+  "dni": "29595050",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d24421438",
   "nombre": "Virginia Raimondi",
-  "dni": "24421438"
+  "dni": "24421438",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "nbecerra-walter",
   "nombre": "Walter Becerra",
-  "dni": null
+  "dni": null,
+  "ubicacion": "A4 · Fila 4"
  },
  {
   "id": "d30100387",
   "nombre": "Walter Coronel",
-  "dni": "30100387"
+  "dni": "30100387",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d22309311",
   "nombre": "Walter Leiva",
-  "dni": "22309311"
+  "dni": "22309311",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "ngarreta-yamila",
   "nombre": "Yamila Garreta",
-  "dni": null
+  "dni": null,
+  "ubicacion": "3 · Fila 4 a 7"
  },
  {
   "id": "d26407588",
   "nombre": "Yanina Anghileri",
-  "dni": "26407588"
+  "dni": "26407588",
+  "ubicacion": "4 · Fila 8 a 16"
  },
  {
   "id": "d45662250",
   "nombre": "Yara Daiana Ramirez",
-  "dni": "45662250"
+  "dni": "45662250",
+  "ubicacion": "4 · Fila 8 a 16"
  }
 ]

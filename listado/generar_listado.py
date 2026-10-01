@@ -51,13 +51,25 @@ def main():
         cols.get("ubicacion") or cols.get("ubicación") or cols.get("sala")
         or cols.get("mesa") or cols.get("sector") or cols.get("lugar")
     )
+    c_categoria = cols.get("categoria") or cols.get("categoría")
+    c_fila = None
+    for c in df.columns:
+        if c in (c_nombre, c_dni, c_ubicacion, c_categoria):
+            continue
+        vals = df[c].dropna().astype(str)
+        if len(vals) and vals.str.lower().str.strip().str.startswith("fila").any():
+            c_fila = c
+            break
+
     if not (c_nombre and c_dni):
         print(f"No encuentro las columnas. Columnas del archivo: {list(df.columns)}", file=sys.stderr)
         sys.exit(1)
     if c_ubicacion:
         print(f"Usando columna de ubicación: \"{c_ubicacion}\"", file=sys.stderr)
+    elif c_categoria:
+        print(f"Usando columna de categoría: \"{c_categoria}\"" + (f" + fila: \"{c_fila}\"" if c_fila else ""), file=sys.stderr)
     else:
-        print("No encontré columna de ubicación (Sala/Mesa/Sector/Lugar); se carga sin ese dato.", file=sys.stderr)
+        print("No encontré columna de ubicación; se carga sin ese dato.", file=sys.stderr)
 
     filas = []
     for _, r in df.iterrows():
@@ -70,6 +82,13 @@ def main():
         ubicacion = None
         if c_ubicacion and not pd.isna(r[c_ubicacion]) and espacios(r[c_ubicacion]):
             ubicacion = espacios(r[c_ubicacion])
+        elif c_categoria and not pd.isna(r[c_categoria]) and espacios(r[c_categoria]):
+            categoria = espacios(r[c_categoria])
+            categoria = re.sub(r"^(B\d+)([ID])$", lambda m: m.group(1) + m.group(2).lower(), categoria)
+            ubicacion = categoria
+            if c_fila and not pd.isna(r[c_fila]) and espacios(r[c_fila]):
+                fila = espacios(r[c_fila]).replace("FIla", "Fila").replace("fila", "Fila")
+                ubicacion += " · " + fila
         filas.append({"nombre": prolijo(espacios(r[c_nombre])), "dni": dni, "ubicacion": ubicacion})
     total_original = len(filas)
 
